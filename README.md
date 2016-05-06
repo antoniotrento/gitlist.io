@@ -28,7 +28,7 @@ There are two ways to lift app :
 
 <code> $ sudo sails lift</code>
 
-
+this commandline is coming soon! Be Patient. 
 <code>$ sudo gitlist </code>
 
 
@@ -78,7 +78,7 @@ downlaod Sails.js
 
 
 
-
+this commandline <code> $sudo sails lift </code> is coming soon! Be Patient. 
 
 <h1>2. Install the Module Package </h1>
 
