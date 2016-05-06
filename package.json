@@ -3,9 +3,6 @@
   "version": "1.0.5",
   "description": "Gitlist OS",
   "keywords": [],
-  "bin": {
-    "gitlist": "./cli.js"
-  },
   "dependencies": {
     "bcrypt": "~0.8.0",
     "ejs": "~0.8.4",

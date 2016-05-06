@@ -69,6 +69,10 @@ http.createServer(function(request, response) {
 }).listen(80,"127.0.0.1");
 
 
+/*  sails.lift(rc('sails'));*/
+
+
+
 
 
 });
