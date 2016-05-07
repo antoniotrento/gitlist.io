@@ -1,4 +1,4 @@
-# Gitlist App 
+# Gitlist App V.1.0.6
 
 <section id="middle-place-01">
 <br>
