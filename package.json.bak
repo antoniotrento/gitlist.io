@@ -1,15 +1,11 @@
 {
   "name": "gitlist",
-  "version": "1.0.6",
+  "version": "1.0.5",
   "description": "Gitlist OS",
   "keywords": [],
- //commandline for $ sudo gitlist lift , but donst work now. 
-  /*
   "bin": {
     "gitlist": "./cli.js"
   },
-
-  */
   "dependencies": {
     "bcrypt": "~0.8.0",
     "ejs": "~0.8.4",

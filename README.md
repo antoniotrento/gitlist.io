@@ -1,14 +1,24 @@
-# Gitlist App V.1.0.6
+# Gitlist App 
+
 
 <section id="middle-place-01">
-<br>
+            <br>
 <br> 
-<h1 class="description-1"> IT'S NICE TO MEET YOU</h1>
+                <h1 class="description-1"> IT'S NICE TO MEET YOU</h1>
                 
+
+<p class="description-2-small"> </p> 
+<br>      
+ <img src="https://raw.githubusercontent.com/SpaceG/gitlist.io/1367ef625b727482498b6dc6f1c494c8bc34a4b7/assets/images/gl-1212-1.png" class="center-block container-small"alt="" /> <br
+<br>
+<br>
+
 </section>
 See the Node Module in Action !
 
-<a href="http://www.gitlist.io"> www.gitlist.io </a> 
+
+
+ <a href="http://www.gitlist.io"> www.gitlist.io </a> 
  <br> the Gitlist Landing Page 
  <a href="http://www.gitlist.io/g/launching">www.gitlist.io/g/launching</a>
 
@@ -18,7 +28,7 @@ There are two ways to lift app :
 
 <code> $ sudo sails lift</code>
 
-this commandline is coming soon! Be Patient. 
+
 <code>$ sudo gitlist </code>
 
 
@@ -68,7 +78,7 @@ downlaod Sails.js
 
 
 
-this commandline <code> $sudo sails lift </code> is coming soon! Be Patient. 
+
 
 <h1>2. Install the Module Package </h1>
 
@@ -186,13 +196,37 @@ Verify that you have successfully installed OpenSSL.
 
 openssl version -a
 
+
+
 <h1> on a Ubuntu Linux Server on Digital Ocean </h1>
+
+
 <section id="middle-place-01">
+            
+
 <div class="middle-place-con-01">
+   
 <div class="bs-example">
-<div class="collapse" id="collapseBeispiel" aria-expanded="false" style="height: 0px;">
-<div class="well container">                                                                
+    
+
+<p>
+      <button class="btn btn-primary collapsed center-block" type="button" id="gitlist-promo-readmore" data-toggle="collapse" data-target="#collapseBeispiel" aria-expanded="false" aria-controls="collapseBeispiel">
+   
+      </button>
+      
 <br>
+<br>
+<br>
+    </p>
+    
+
+<div class="collapse" id="collapseBeispiel" aria-expanded="false" style="height: 0px;">
+      
+
+<div class="well container">                                                                
+ <!--<img src="http://space.lucasgatsas.ch/images/Showcase-Devices-Presentation-lucas-gatsas-gitlist-app.png" class="center-block container-small"alt="" /> <br -->
+<br>
+
 <br> <strong> Programming Languages </strong> 
 <br>
 <br> <strong> HTML5 </strong> <a href="https://en.wikipedia.org/wiki/HTML5" target="blank"> Link to : HTML5</a> 
@@ -262,9 +296,16 @@ which simplifies and accelerates web application development.
 <br> - <strong> OpenSSL</strong>(Certificate - Security) <a href="https://en.wikipedia.org/wiki/OpenSSL" target="_bkank"> Link to : Open SSL</a> 
 <br> - Lindes of Code <strong>678'134 </strong>(Web App in Code of Lines) 
 <br> 
-</div>                                                                                
-</div>                  
-</div>          
+<br> 
+<br> 
+<br>
+
+</div>                                                            
+                    
+</div>
+                  
+</div>
+                
 </div>
 </section> 
 
